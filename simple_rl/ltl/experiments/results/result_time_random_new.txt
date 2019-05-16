@@ -1,0 +1,15 @@
+=== Env 2 ==============================================
+Run 150 times
+time_AMDP, time_AMDP_level0, time_pMDP, len_AMDP, len_AMDP_level0, len_pMDP, correct_AMDP, correct_AMDP_level0, correct_pMDP, backup_AMDP, backup_AMDP_level0, backup_pMDP, LTL, ap_maps
+=== Env 2 ==============================================
+Run 150 times
+time_AMDP, time_AMDP_level0, time_pMDP, len_AMDP, len_AMDP_level0, len_pMDP, correct_AMDP, correct_AMDP_level0, correct_pMDP, backup_AMDP, backup_AMDP_level0, backup_pMDP, LTL, ap_maps
+=== Env 2 ==============================================
+Run 150 times
+time_AMDP, time_AMDP_level0, time_pMDP, len_AMDP, len_AMDP_level0, len_pMDP, correct_AMDP, correct_AMDP_level0, correct_pMDP, backup_AMDP, backup_AMDP_level0, backup_pMDP, LTL, ap_maps
+=== Env 2 ==============================================
+Run 1 times
+time_AMDP, time_AMDP_level0, time_pMDP, len_AMDP, len_AMDP_level0, len_pMDP, correct_AMDP, correct_AMDP_level0, correct_pMDP, backup_AMDP, backup_AMDP_level0, backup_pMDP, LTL, ap_maps
+=== Env 2 ==============================================
+Run 1 times
+time_AMDP, time_AMDP_level0, time_pMDP, len_AMDP, len_AMDP_level0, len_pMDP, correct_AMDP, correct_AMDP_level0, correct_pMDP, backup_AMDP, backup_AMDP_level0, backup_pMDP, LTL, ap_maps
